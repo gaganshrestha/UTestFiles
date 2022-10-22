@@ -16,7 +16,7 @@ ____________________________________
 Configurations
 ____________________________________
 
-1. Update the content of the following enclosed files in the local cypress project:
+Update the content of the following enclosed files in the local cypress project content:
   1. cypress.config.js
   2. cypress/support/e2e.js  
 ____________________________________
@@ -26,7 +26,7 @@ ____________________________________
 Test files
 ____________________________________
 
-Copy the following enclosed files in the local cypress project:
+Copy the following enclosed files in the local cypress project content:
 
   1. cypress/support/landingPageSelectors.js
   2. cypress/support/LoginPageSelectors.js
@@ -43,7 +43,7 @@ ____________________________________
  1. From your project directory, run the following command:
     `npx cypress run --browser chrome`
     
- 2. HTML report will be created under the local project directory - `cypress/reports/html/index.html`. Open the file in the browser.
+ 2. HTML report will be created under the local cypress project directory - `cypress/reports/html/index.html`. Open the file in the browser.
     
  ____________________________________
  
