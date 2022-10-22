@@ -16,9 +16,9 @@ ____________________________________
 Configurations
 ____________________________________
 
-1. Ensure to update the content of the following enclosed files in the local cypress project:
-  a. cypress.config.js
-  b. cypress/support/e2e.js  
+1. Update the content of the following enclosed files in the local cypress project:
+  1. cypress.config.js
+  2. cypress/support/e2e.js  
 ____________________________________
 
 
