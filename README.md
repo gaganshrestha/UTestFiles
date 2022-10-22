@@ -3,14 +3,14 @@ Cypres test files for UI and REST API testing
 
 Steps:
 
-1. Installations requirements
+<b>Installations requirements</b>
 ___________________________
 
 1. Install node.js (version >= 14) (https://nodejs.org/en/download/).
 2. Install latest Cypress (10.10.0) (https://docs.cypress.io/guides/getting-started/installing-cypress). 
 3. Install cypress mochawesome reporter (https://www.npmjs.com/package/cypress-mochawesome-reporter).
 
-2. Configurations
+<b>Configurations</b>
 ____________________________________
 
 1. Ensure to update the content of the following enclosed files in the local cypress project:
@@ -18,7 +18,7 @@ ____________________________________
   b. cypress/support/e2e.js
   
 
-3. Test files
+<b>Test files<b>
 ____________________________________
 
 Copy the following enclosed files in the local cypress project:
@@ -30,7 +30,7 @@ Copy the following enclosed files in the local cypress project:
   5. cypress/e2e/UITests.cy.js
   
   
- 4. Running tests / access test report
+ <b>Running tests / access test report</b>
  ____________________________________
  
  1. From your project directory, run the following command:
